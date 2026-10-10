@@ -1,4 +1,0 @@
-{
-  "private": true,
-  "description": "Keeps fixtures out of the \"type\": \"module\" scope declared by spec/package.json, so they retain Node's default module detection."
-}

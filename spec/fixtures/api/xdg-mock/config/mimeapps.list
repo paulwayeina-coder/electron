@@ -1,5 +1,0 @@
-[Default Applications]
-x-scheme-handler/mockproto=mock-browser.desktop
-
-[Added Associations]
-x-scheme-handler/mockproto=mock-browser.desktop;
